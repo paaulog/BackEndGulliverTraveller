@@ -1,0 +1,16 @@
+{
+  
+  "name": "gullivertraveller-main",
+  "version": "1.0.0",
+  "description": "Projeto Gulliver - FIAP",
+  "main": "index.js",
+  "scripts": {
+    "start": "detalhes-saopaulo.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "GulliverTraveller"
+  },
+  "author": "Paulo Gomes",
+  "license": "ISC"
+}
